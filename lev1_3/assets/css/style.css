@@ -1,0 +1,23 @@
+body {
+  background-color: #d3d3d3;
+}
+
+header {
+  background-color: #808080;
+}
+
+a {
+  color: orangered;
+}
+
+p span {
+  color: red;
+}
+
+header nav ul li {
+  list-style-type: none;
+}
+
+main section article p a {
+  text-decoration: none;
+}
